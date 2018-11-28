@@ -1,0 +1,9 @@
+# Ignore files when pushing to github:
+
+node_modules
+.DS_Store
+.env
+homework_instructions.md
+images/customer.mov
+images/manager.mov
+images/supervisor.mov
