@@ -53,4 +53,4 @@ Bamazon operates in 3 files and gives access to the Customer, Manager and Superv
 &nbsp;
 
 ## Notes:
-First time using mySQL. Although programming mySQL seems straigh forward, it can be challenging during execusion. I would say that the solution to this, as with anything, is PRACTICE, PRACTICE, PRACTICE.
+First app using MySQL.
